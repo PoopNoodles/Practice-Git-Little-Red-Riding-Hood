@@ -1,9 +1,9 @@
-body{
+body {
   background-color: black;
   font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
 }
 
-h1{
+h1 {
     text-align: center;
     color:whitesmoke;
     text-decoration: underline;
@@ -35,5 +35,5 @@ h2 {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: whitesmoke;
     padding: 5%;
-    margin: 20px;;
+    margin: 20px;
 }
